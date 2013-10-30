@@ -1,4 +1,7 @@
-cartoglass
-==========
+CartoGlass
+========
 
-Carto Glass
+CartoGlass is a location-based application for Google Glass.
+
+`CartoGlass` is currently under development.
+Coming soon...
